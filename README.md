@@ -1,3 +1,4 @@
+Received the latest home page text from the product team.
 
 # Contributing
 
